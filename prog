@@ -1,6 +1,6 @@
 a=10
 b=2
-c=4
+c=1.2
  print(type(a))
 print(type(b))
 print(type(c))
